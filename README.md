@@ -6,7 +6,7 @@ It’s divided into two parts:
 - setting up the environment compatible with OpenAI gym and implementation of an agent.
 #### ![Image of a Game](/../master/scripts/Assets/screenshot/game.png)
 ## Getting started
-To use functionality of our project, ensure you have: PyGame, Gym, NumPy installed.
+To use functionality of our project, make sure you have: PyGame, Gym, NumPy installed.
 ## Contributors
 -  [Aleksaner Kwaśny](https://github.com/akwasnyy)
 -  [Dawid Hebda](https://github.com/Zawirusowany)
